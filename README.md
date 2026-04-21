@@ -8,4 +8,4 @@ In this project, you'll build reusable Python functions to power an intergalacti
 
 This project is data-less, but you can test your functions by calling them in the workspace and passing them the required variables.
 
-Machine learning was not applied in this project.
+The project was done in December, 2024. Machine learning was not applied in this project.
